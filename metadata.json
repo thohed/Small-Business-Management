@@ -1,0 +1,6 @@
+{
+  "name": "BizOps",
+  "description": "Small business management app featuring role-based dashboards (Admin, Manager, Staff), daily sales, buys, expenses, cost analytics, staff work tracking, and payment requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
